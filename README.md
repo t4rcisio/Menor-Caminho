@@ -41,7 +41,7 @@ e c 4 7<br>
 
 <h1>Menu</h1>
 -------------------------------------------<br>
-[1]Inserir Vértice<dl>      [2]Remover Aresta<br>
+[1]Inserir Vértice<table>      [2]Remover Aresta<br>
 [3]Inserir aresta       [4]Carregar arquivo<br>
 [5]Ver Grafo            [6]Menor caminho<br>
 [10]Sair
