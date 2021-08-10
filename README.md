@@ -20,23 +20,23 @@ Esse formato de entrada permite costruir dois grafos:
 -Grafo de distância
 -Grafo de tempo
 
-5 <----- Quantidade de vértices
-a
-b
-c
-d
-e
-10 <---- Quantidade de arestas
-a b 3 3 <----- [vértice_A] [vértice_B] [distância] [tempo]
-a d 5 5
-b c 2 6
-b d 2 2
-c e 2 2
-d b 3 1
-d c 5 4
-d e 9 6
-e a 6 3
-e c 4 7
+5 <----- Quantidade de vértices<br>
+a<br>
+b<br>
+c<br>
+d<br>
+e<br>
+10 <---- Quantidade de arestas<br>
+a b 3 3 <----- [vértice_A] [vértice_B] [distância] [tempo]<br>
+a d 5 5<br>
+b c 2 6<br>
+b d 2 2<br>
+c e 2 2<br>
+d b 3 1<br>
+d c 5 4<br>
+d e 9 6<br>
+e a 6 3<br>
+e c 4 7<br>
 
 
 <h1>Menu</h1>
